@@ -8,3 +8,4 @@ override.tf, override.tf.json, *_override.tf, *_override.tf.json - файлы п
 Переопределённые файлы !example_override.tf, которые вы хотите добавить в систему управления версиями, используя шаблон negated 
 Файлы tfplan (*tfplan*), содержащие вывод команды terraform plan -out=tfplan
 Файлы плана, сохраненные перед уничтожением конфигурации Terraform (planout)
+Меняю ветку 1997
